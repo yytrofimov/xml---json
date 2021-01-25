@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record title = "Title 1">
+        <artist>Artist 1</artist>
+        <genre>Genre 1</genre>
+        <year_of_publication>2000</year_of_publication>
+        <label>Label 1</label>
+        <producer>Producer 1</producer>
+    </record>
+    <record title = "Title 2">
+        <artist>Artist 2</artist>
+        <genre>Genre 2</genre>
+        <year_of_publication>2001</year_of_publication>
+        <label>Label 2</label>
+        <producer>Producer 2</producer>
+    </record>
+    <record title = "Title 3">
+        <artist>Artist 3</artist>
+        <genre>Genre 3</genre>
+        <year_of_publication>2002</year_of_publication>
+        <label>Label 3</label>
+        <producer>Producer 3</producer>
+    </record>
+    <record title = "Title 4">
+        <artist>Artist 4</artist>
+        <genre>Genre 4</genre>
+        <year_of_publication>2003</year_of_publication>
+        <label>Label 3</label>
+        <producer>Producer 3</producer>
+    </record>
+</records>
